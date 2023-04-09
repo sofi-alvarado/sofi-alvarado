@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio.<br>🤝 I’m looking for a job on web development.<br>🌱 I’m currently learning ReactJS.<br>🛼 Fun fact: I love roller skating. I also have a strong bond with music.
+🔭 I’m currently working on my portfolio.<br>🤝 I’m looking for a job in web development.<br>🌱 I’m currently learning ReactJS.<br>🛼 Fun fact: I love roller skating. I also have a strong bond with music.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sofi-alvarado/) 
