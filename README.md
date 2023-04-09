@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**sofi-alvarado/sofi-alvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on my portfolio.<br>🤝 I’m looking for a job on web development.<br>🌱 I’m currently learning ReactJS.<br>🛼 Fun fact: I love roller skating. I also have a strong bond with music.
 
