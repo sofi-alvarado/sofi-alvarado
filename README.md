@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦝 About Me:<br>🌱 I’m currently learning ReactJS.<br>🛼 Fun fact: I love roller skating. I also have a strong bond with music.<br>
+🦝 About Me:<br>🌱 I’m currently learning Ruby.<br>🛼 Fun fact: I love roller skating. I also have a strong bond with music.<br>
 
 
 ## 🌐 Socials:
